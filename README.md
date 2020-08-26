@@ -9,7 +9,7 @@ package main
 import (
 	"log"
 
-	"github.com/stacktitan/smb/smb"
+	"github.com/waylen888/smb/smb"
 )
 
 func main() {

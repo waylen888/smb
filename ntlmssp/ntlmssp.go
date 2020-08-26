@@ -12,7 +12,7 @@ import (
 
 	"encoding/hex"
 
-	"github.com/stacktitan/smb/smb/encoder"
+	"github.com/waylen888/smb/smb/encoder"
 )
 
 const Signature = "NTLMSSP\x00"

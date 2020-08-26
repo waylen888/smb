@@ -13,9 +13,9 @@ import (
 	"net"
 	"runtime/debug"
 
-	"github.com/stacktitan/smb/gss"
-	"github.com/stacktitan/smb/ntlmssp"
-	"github.com/stacktitan/smb/smb/encoder"
+	"github.com/waylen888/smb/gss"
+	"github.com/waylen888/smb/ntlmssp"
+	"github.com/waylen888/smb/smb/encoder"
 )
 
 type Session struct {
